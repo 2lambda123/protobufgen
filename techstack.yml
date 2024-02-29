@@ -1,0 +1,80 @@
+repo_name: 2lambda123/protobufgen
+report_id: 781f085b54942666d0d91bf46ff9dac2
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:16:59+00:00'
+requested_by: stefan-ka
+provider: github
+branch: master
+detected_tools_count: 6
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/protobufgen
+  detection_source: Repo Metadata
+- name: Apache FreeMarker
+  description: A free Java-based template engine
+  website_url: http://freemarker.incubator.apache.org/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/protobufgen
+  detection_source: Repo Metadata
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/2lambda123/protobufgen/blob/master/codecov.yml
+  detection_source: codecov.yml
+  last_updated_by: Stefan Kapferer
+  last_updated_on: 2020-08-11 14:52:47.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/protobufgen
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/2lambda123/protobufgen/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Stefan Kapferer
+  last_updated_on: 2020-08-12 06:24:38.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/protobufgen/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Stefan Kapferer
+  last_updated_on: 2020-08-11 14:52:47.000000000 Z
